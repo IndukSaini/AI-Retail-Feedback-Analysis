@@ -2,12 +2,12 @@
 
 ### French Dashboard
 
-![French Dashboard](Gradio_French.jpg)
+Gradio_French.jpg
 
 ### Hindi Dashboard
 
-![Hindi Dashboard](Gradio_Hindi.jpg)
+Gradio_Hindi.jpg
 
 ### Spanish Dashboard
 
-![Spanish Dashboard](Gradio_Spanish.jpg)
+Gradio_Spanish.jpg

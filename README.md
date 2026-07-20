@@ -1,3 +1,17 @@
+# Dashboard Preview
+
+### French Dashboard
+
+![French Dashboard](Gradio_French.jpg)
+
+### Hindi Dashboard
+
+![Hindi Dashboard](Gradio_Hindi.jpg)
+
+### Spanish Dashboard
+
+![Spanish Dashboard](Gradio_Spanish.jpg)
+
 # Gradio_dashboard
 Business Context
 ChicStyle — a growing fashion retail platform — experiences massive spikes in customer activity during festive seasons and holiday sales. As people buy clothing and accessories for celebrations, the volume of incoming reviews increases drastically. These reviews pour in every hour, ranging from positive praise to urgent complaints about fit, delivery delays, product defects, or sizing issues.

@@ -1,4 +1,4 @@
-# Dashboard Preview
+## Dashboard Preview
 
 ### French Dashboard
 

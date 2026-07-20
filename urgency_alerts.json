@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "total_high_urgency_reviews": 4,
+    "recommended_action": "Route high-urgency reviews to the customer-support escalation queue and require human review before sending customer responses."
+  },
+  "alerts": [
+    {
+      "Review_ID": 1,
+      "Product_ID": 879,
+      "Department": "Tops",
+      "Rating": 1,
+      "Review": "Terrible fabric. I loved the shirt until i washed it! awful fabric quality. cheaply made.",
+      "Category": "Product Quality",
+      "Sentiment": "Negative",
+      "Urgency": "High",
+      "Summary": "The customer is reporting significant dissatisfaction with fabric quality and durability after a single wash.",
+      "Personalized_Message": "We are truly sorry to hear that your shirt did not hold up as expected after washing; please reach out to our support team so we can assist you with a return or replacement for this defective item.",
+      "Retail_Insight": "Initiate an immediate quality control audit on the current batch of this shirt model to test fabric integrity and shrinkage rates post-wash to prevent further returns."
+    },
+    {
+      "Review_ID": 6,
+      "Product_ID": 941,
+      "Department": "Tops",
+      "Rating": 1,
+      "Review": "No way. This sweater was so itchy i immediately was turned off. it looks cute in pictures but another problem was that the knitting in the shoulders looks like a kid made it. it was uneven and stretched out. it looked like it was not well made to me. it also shed so much that just from me trying it on my pants were covered in orange fuzz. i returned this one.",
+      "Category": "Quality & Product Design",
+      "Sentiment": "Negative",
+      "Urgency": "High",
+      "Summary": "The customer reported severe quality control issues including uncomfortable fabric, poor knitting construction, and excessive shedding.",
+      "Personalized_Message": "We are truly sorry to hear that the sweater you received did not meet our quality standards and caused such frustration; we appreciate you sharing this feedback so we can address these defects with our production team.",
+      "Retail_Insight": "Initiate an immediate quality audit on the current batch of orange knitwear to inspect for structural integrity, yarn shedding, and fabric finish consistency before further units are shipped."
+    },
+    {
+      "Review_ID": 9,
+      "Product_ID": 1078,
+      "Department": "Dresses",
+      "Rating": 1,
+      "Review": "Fell apart before my eyes. Was excited to wear the dress for the first time. but while standing in front of the mirror putting makeup on, the seam between the body and sleeve just started to unravel. strangest thing - just a random hole appeared :(.",
+      "Category": "Product Quality",
+      "Sentiment": "Negative",
+      "Urgency": "High",
+      "Summary": "The customer experienced an immediate garment failure, specifically a seam unraveling on the sleeve, upon the first wear.",
+      "Personalized_Message": "We are truly sorry to hear that your new dress failed to meet our quality standards, and we completely understand how frustrating it is to have your outfit ruined before you even stepped out the door; please reach out to our support team so we can arrange a full refund or a replacement immediately.",
+      "Retail_Insight": "Initiate an immediate quality control audit on the specific batch/SKU of this dress to inspect for tension issues in sleeve-to-body assembly, as this suggests a recurring manufacturing defect in the stitching process."
+    },
+    {
+      "Review_ID": 24,
+      "Product_ID": 879,
+      "Department": "Tops",
+      "Rating": 3,
+      "Review": "Cute style, flimsy fabric. Bought this shirt in mid-july, washed twice (cold, delicate) and hung to dry. already holes/falling apart",
+      "Category": "Product Quality",
+      "Sentiment": "Negative",
+      "Urgency": "High",
+      "Summary": "The customer is reporting premature fabric degradation and holes appearing in a shirt after minimal wear and proper care.",
+      "Personalized_Message": "We are truly sorry to hear that your shirt did not hold up as expected; we hold our items to a much higher standard and would like to make this right for you immediately.",
+      "Retail_Insight": "Initiate a quality control audit for this specific SKU to investigate potential manufacturing defects in the fabric weave and consider pausing fulfillment until the material durability is re-verified."
+    }
+  ]
+}
